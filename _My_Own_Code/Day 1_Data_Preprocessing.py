@@ -14,8 +14,6 @@ Y = dataset.iloc[ : , 3].values
 print("Step 2: Importing dataset")
 print("X")
 print(X)
-
-
 print("Y")
 print(Y)
 
